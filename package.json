@@ -1,0 +1,7 @@
+{
+  "name": "calendar_availability",
+  "version": "0.0.1",
+  "author": "Daniel Sandberg",
+  "description": "Creates text that defines your availability based on your Google Calendar.",
+  
+}
